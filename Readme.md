@@ -80,8 +80,3 @@ Then:
 2. Open GitHub Copilot Chat
 3. Click the model dropdown
 4. Select: Qwen 27B (Dual Tesla T4)
-
-If you want, I can also turn this into:
-- a more polished marketing-style document,
-- a cleaner formal report,
-- or a true .docx-ready layout with headings and spacing for Word.
